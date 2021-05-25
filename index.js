@@ -3,7 +3,8 @@ let circle;
 let triangle;
 let square;
 
-new Polygon( [ 5, 5, 5 ]
+let Polygon= [ 5, 5, 5 ];
+
 class Polygon{
   construtor(){
     
