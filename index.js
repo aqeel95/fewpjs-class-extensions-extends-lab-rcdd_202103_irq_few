@@ -4,5 +4,7 @@ let triangle;
 let square;
 
 class Polygon{
-  
+  construtor(){
+    
+  }
 }
