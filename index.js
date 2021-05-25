@@ -9,4 +9,8 @@ class Polygon{
   construtor(){
     
   }
+  get countSides(){
+    
+    
+  }
 }
